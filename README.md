@@ -22,6 +22,6 @@
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSY1526)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zan05134)](https://solved.ac/zan05134)
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSY1526)](https://github.com/anuraghazra/github-readme-stats)
